@@ -108,4 +108,4 @@ Thank you all for listening!
 
 🔊 **Nghe bản đọc mẫu:**
 
-![[3 - Audio (Week 02).m4a]]
+![[3 - Audio (Week 02).mp3]]
