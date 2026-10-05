@@ -105,3 +105,7 @@ Based on this, our group proposes three simple but effective rules:
 Instead of banning AI, our group believes universities should actively guide students on how to control and master this technology. That is the best way for all of us to move forward together.
 
 Thank you all for listening!
+
+🔊 **Nghe bản đọc mẫu:**
+
+![[3 - Audio (Week 02).m4a]]
