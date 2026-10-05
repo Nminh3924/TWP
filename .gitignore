@@ -1,0 +1,17 @@
+# Bỏ qua mọi thứ ở thư mục gốc của vault...
+/*
+
+# ...trừ những mục cần push
+!/.gitignore
+!/.obsidian/
+!/00 - Hub.md
+!/01 - Weekly Topics/
+
+# Trạng thái giao diện Obsidian riêng của từng máy (đổi liên tục, dễ gây conflict)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# File tạm của macOS và Office
+.DS_Store
+~$*
